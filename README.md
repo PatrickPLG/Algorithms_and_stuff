@@ -1,2 +1,2 @@
-# Algorithms
-Different algorithms made in Python
+# Algorithms and stuff
+Different small algorithms and programs made in Python
